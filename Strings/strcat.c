@@ -1,3 +1,4 @@
+/*hello worls program*/
 #include <stdio.h>
 #include <string.h>
 int main()
@@ -8,3 +9,4 @@ int main()
     printf("Output string after concatenation: %s", s1);
     return 0;
 }
+/
